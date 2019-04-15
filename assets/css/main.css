@@ -2431,8 +2431,8 @@ input, select, textarea {
 	}
 
 .fix {
-	min-height: 596px;
-	max-height: 596px;
+	min-height: 500px;
+	max-height: 500px;
 }
 
 .fix2 {
