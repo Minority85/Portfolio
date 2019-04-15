@@ -2429,3 +2429,16 @@ input, select, textarea {
 					}
 
 	}
+
+.fix {
+	min-height: 596px;
+	max-height: 596px;
+}
+
+.fix2 {
+	max-height: 282px;
+	min-height: 282px;
+	max-width: 283px;
+	min-width: 283px;
+	margin: auto;
+}
