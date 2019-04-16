@@ -2430,10 +2430,10 @@ input, select, textarea {
 
 	}
 
-.fix {
+/* .fix {
 	min-height: 500px;
 	max-height: 500px;
-}
+} */
 
 .fix2 {
 	max-height: 282px;
@@ -2441,4 +2441,12 @@ input, select, textarea {
 	max-width: 283px;
 	min-width: 283px;
 	margin: auto;
+}
+
+.fix3 {
+	min-height: 409px;
+}
+
+.fix4 {
+	min-height: 269px;
 }
